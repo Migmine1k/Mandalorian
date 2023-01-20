@@ -1,0 +1,16 @@
+#fundo {
+    background-image: url("fundo.jpg");
+    background-size: cover;
+}
+
+#myCanvas {
+    margin-top: 30px;
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+
+h1, h4 {
+    color: white;
+    
+}
